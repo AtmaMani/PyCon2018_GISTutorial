@@ -1,3 +1,11 @@
+## Atma's notes
+**Audience** : people of all types, ages, background.
+**Examples, apps** : Esri, Stamen, Planet, QGIS, ArcGIS
+**Data types and analysis**: buffer, spatial overlay, shape files, vector, raster data types
+**Projections**: [http://epsg.io](http://epsg.io), [Projection wizard](http://www.projectionwizard.org)
+
+
+
 ## **Intro to Spatial Analysis and Maps with Python** for PyCon 2018
 
 * Slides coming soon...
@@ -49,3 +57,8 @@ This will open a browser where you can click and open each Notebook.
 source deactivate  # macOS and Linux
 deactivate  # Windows.
 ```
+
+### More resources
+ - [Geohackweek](https://geohackweek.github.io/schedule.html)
+   - [Vector tools](https://geohackweek.github.io/vector/)
+   - [Raster tools](https://geohackweek.github.io/raster/)
