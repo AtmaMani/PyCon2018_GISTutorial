@@ -4,7 +4,16 @@
 **Data types and analysis**: buffer, spatial overlay, shape files, vector, raster data types
 **Projections**: [http://epsg.io](http://epsg.io), [Projection wizard](http://www.projectionwizard.org)
 
+**Color scheme for GeoPandas**: [Colorbrewer](https://colorbrewer2.org)
 
+**Topics covered**
+ - GeoSeries, GeoPandas DataFrames
+ - shapely to create `Point` geometries
+ - Plotting world basemap, cities vector data, polygon eclipse data
+ - relational filter using pandas, visualize in a map
+ - spatial join of cities with eclipse to find pop impacted
+ - **Folium** which uses `leaflet` for live maps
+  - call `.save()` on `folium` map and you get full page html with the map
 
 ## **Intro to Spatial Analysis and Maps with Python** for PyCon 2018
 
